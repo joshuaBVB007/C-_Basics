@@ -1,0 +1,10 @@
+//Basic for
+for (int i = 0; i < 10; i++){
+Console.WriteLine(i);
+}
+
+//for each
+string[] cars={"Volvo","Bugatti","Mazda"};
+foreach (string car in cars){
+    Console.WriteLine(car);
+}

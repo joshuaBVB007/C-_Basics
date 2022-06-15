@@ -1,0 +1,6 @@
+Console.WriteLine("Now we make a demo of a Loop");
+int variable=2;
+while(variable < 10){
+    Console.WriteLine("el valor es: "+variable);
+    variable += 1;
+}

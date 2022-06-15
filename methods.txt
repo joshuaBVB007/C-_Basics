@@ -1,0 +1,9 @@
+class Program{
+        //method that belongs to Program class
+        static string DoPrint(){
+            return "I'm do print";
+        }
+        static void Main(string[] args){
+            Console.WriteLine(Program.DoPrint());
+        }
+    }
