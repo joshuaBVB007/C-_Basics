@@ -1,0 +1,11 @@
+class Program{
+        public static string dame() => "Hola";
+        //esta variable es solo de lectura
+        public static string jonathan => "que tal";
+        static void Main(string[] args){
+            int num=0;
+            Console.WriteLine(num);
+            Console.WriteLine(jonathan);
+            Console.WriteLine(dame());
+        }
+}

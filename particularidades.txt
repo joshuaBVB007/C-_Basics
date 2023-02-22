@@ -1,0 +1,4 @@
+en C# no exiten:
+
+variables o métodos globales.
+no existen contructor por defecto debes definirlo.
